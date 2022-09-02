@@ -1,0 +1,18 @@
+.navelem {
+        font-size: 1.3rem;
+        color: white;
+        padding: 0.5rem;
+        height: 3rem;
+
+        display: inline-block;
+        text-decoration: none;
+
+}
+
+.linkdiv {
+        background-color: rgb(225, 84, 107);
+        display: flex;
+        width: 150rem;
+        align-items: center;
+
+}
